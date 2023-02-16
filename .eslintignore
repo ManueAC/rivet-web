@@ -1,0 +1,13 @@
+#React
+node_modules
+build
+public
+template
+pages/index.tsx
+*-test.*
+src/shared/types
+next.config.js
+clean-package.js
+jest.config.js
+/.history/
+/src/shared/types/
